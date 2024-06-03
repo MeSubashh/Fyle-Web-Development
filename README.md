@@ -31,7 +31,7 @@ This page includes interactive features such as hover effects and dynamic conten
 - `contact.html`: Contains the login form which sends data to [getform.io](https://getform.io).
 - `further.html`: Contains interactive features such as hover effects and dynamic image changes.
 - `styles.css`: Core stylesheet that includes styles for all pages.
-- `Further.css`: Additional stylesheet (currently not in use).
+- `Further.css`: Additional stylesheet for Further.html
 
 ## How to Run
 
